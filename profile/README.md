@@ -32,3 +32,18 @@ At now (2024.9.30), only few framework can meet most needs of people:
 - API Thread safe.
 - Document and demo.
 - Depends little, package size small. Better to support one file.
+
+The mostly simaler projects are LCUI、AWTK、FLTK, Duilib, but the design is not good enough.  
+So, learn them one by one, and develop a new one.  
+
+> Language is Zig or Rust.
+> Zig firstly. later using rust to re-design.
+
+ 
+# RoadMap
+1. [ ] Copy LCUI - CSS using Zig
+2. [ ] Copy LCUI - core module using Zig
+3. [ ] Copy LCUI - full using Zig
+4. [ ] Make binding for LCUI using go/python
+5. todo
+
